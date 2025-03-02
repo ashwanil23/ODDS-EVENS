@@ -1,0 +1,24 @@
+{
+  "name": "mern_app",
+  "version": "1.0.0",
+  "description": "THIS IS A MINI APP DEVELOPED FOR HUMANS",
+  "homepage": "https://github.com/ashwanil23/ODDS-EVENS#readme",
+  "bugs": {
+    "url": "https://github.com/ashwanil23/ODDS-EVENS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwanil23/ODDS-EVENS.git"
+  },
+  "license": "ISC",
+  "author": "ASHWANI KUMAR",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.11.0"
+  }
+}
